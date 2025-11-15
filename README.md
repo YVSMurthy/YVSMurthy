@@ -91,11 +91,5 @@ graph LR
 
 <div align="center">
 
-<!-- CLEAN GRADIENT DIVIDER --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/> <div align="center">
-### 🐍 Watch my contributions get eaten!
-
-![snake gif](https://github.com/YVSMurthy/YVSMurthy/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/> <div align="center"> <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/> 
+<div align="center"> <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/> </div>
