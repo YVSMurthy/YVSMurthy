@@ -94,7 +94,7 @@ graph LR
 <!-- CLEAN GRADIENT DIVIDER --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/> <div align="center">
 ### 🐍 Watch my contributions get eaten!
 
-![snake gif](https://github.com/YVSMurthy/YVSMurthy/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/YVSMurthy/YVSMurthy/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
